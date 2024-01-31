@@ -20,4 +20,5 @@ async function getTop20Movies(){
         throw new Error(err);
     }
 }
+
 getTop20Movies();
