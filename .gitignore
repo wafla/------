@@ -1,3 +1,4 @@
 chapter6/try-mongo/test-connection.js
 chapter6/test-mongoose/mongoose-crud.js
 node_modules
+chapter7/board/configs/mongodb-connection.js
